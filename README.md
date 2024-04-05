@@ -11,7 +11,7 @@ Before designing these diagrams, it's crucial to collect and analyze project req
 
 ## Diagrams
 
-- [**Class Diagram**](#[class-diagram](https://app.genmymodel.com/api/projects/_LQYv4OlbEe6YcvViuOreEw/diagrams/_LQYv4-lbEe6YcvViuOreEw/svg)):  Represents the structure of the virtual pet simulator, including supported pet types and their interactions.
+- [**Class Diagram**](#https://app.genmymodel.com/api/projects/_LQYv4OlbEe6YcvViuOreEw/diagrams/_LQYv4-lbEe6YcvViuOreEw/svg):  Represents the structure of the virtual pet simulator, including supported pet types and their interactions.
 - **Sequence Diagram:** Illustrates the flow of interactions between the user, the UI, and the pet module.
 - **State Machine Diagram:** Models the states and transitions of the virtual pet, such as hunger, thirst, happiness, and sickness.
 - **Activity Diagram:** Visualizes the workflow of caring for the virtual pet, including feeding, grooming, and playing.
