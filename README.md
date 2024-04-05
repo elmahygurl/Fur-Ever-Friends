@@ -1,9 +1,9 @@
 # Virtual Pet Simulator 
-Design for a virtual pet simulator using UML diagrams.
-It simulates the experience of taking care of a virtual pet, providing users with a realistic and enjoyable gameplay experience.
 
-## Project Overview
+### Project Overview
+Design for a virtual pet simulator using UML diagrams.
 The design for this project aims to give a basis for the whole Simulator, and the diagrams for when implementing later. 
+
 
 ### Why are these diagrams important?
 Before designing these diagrams, it's crucial to collect and analyze project requirements. These diagrams serve as visual representations of the system's architecture, behavior, and interactions, guiding the development process. After designing the diagrams, the implementation phase begins, translating the design into actual code. In summary, the diagrams bridge the gap between requirements analysis and implementation, facilitating communication and guiding the development team.
