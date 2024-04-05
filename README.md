@@ -1,6 +1,5 @@
-# Fur-Ever-Friends
-Design for a virtual pet simulator using UML diagrams
-# Virtual Pet Simulator
+# Virtual Pet Simulator 
+Design for a virtual pet simulator using UML diagrams.
 It simulates the experience of taking care of a virtual pet, providing users with a realistic and enjoyable gameplay experience.
 
 ## Project Overview
